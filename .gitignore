@@ -1,0 +1,13 @@
+# build artifacts
+*.o
+htproxy
+htproxy.exe
+
+# debug / sanitizer output
+*.dSYM/
+*.stackdump
+
+# IDE/editor cruft
+.vscode/
+.idea/
+.DS_Store
